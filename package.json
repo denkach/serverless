@@ -1,5 +1,5 @@
 {
-  "name": "Serverless Extension",
+  "name": "ServerlessExtensionDenisito",
   "version": "1.0.0",
   "description": "My own serverless extension",
   "main": "./src/index.js",
