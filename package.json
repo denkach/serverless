@@ -1,0 +1,20 @@
+{
+  "name": "Serverless Extension",
+  "version": "1.0.0",
+  "description": "My own serverless extension",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denkach/serverless.git"
+  },
+  "keywords": [
+    "",
+    "",
+    ""
+  ],
+  "author": "",
+  "license": "MIT"
+}

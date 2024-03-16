@@ -1,0 +1,13 @@
+# serverless.yml
+
+service: my-service
+
+provider:
+  name: aws
+  runtime: nodejs14.x
+
+plugins:
+  - ./serverless-extension.js
+
+custom:
+  myCustomProperty: value
